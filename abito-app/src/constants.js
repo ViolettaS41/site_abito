@@ -2,10 +2,11 @@ export const cardArray = [
   {
     id: 0,
     title: "Пвх материал 2й сорт 1",
-    price: "171 Р",
+    price: "171",
     address: "Казань, р-н Вахитовский",
     date: "10 июля 11:39",
     img: "/image/card-image.png",
+    description: "Продаю не спеша самокат в хорошем состоянии. ",
   },
   {
     id: 1,
@@ -14,6 +15,7 @@ export const cardArray = [
     address: "Казань, р-н Вахитовский",
     date: "10 июля 11:39",
     img: "/image/card-image.png",
+    description: "Продаю не спеша самокат в хорошем состоянии. ",
   },
   {
     id: 2,
@@ -22,6 +24,7 @@ export const cardArray = [
     address: "Казань, р-н Вахитовский",
     date: "10 июля 11:39",
     img: "/image/card-image.png",
+    description: "Продаю не спеша самокат в хорошем состоянии. ",
   },
   {
     id: 3,
@@ -30,6 +33,7 @@ export const cardArray = [
     address: "Казань, р-н Вахитовский",
     date: "10 июля 11:39",
     img: "/image/card-image.png",
+    description: "Продаю не спеша самокат в хорошем состоянии. ",
   },
   {
     id: 4,
@@ -38,6 +42,7 @@ export const cardArray = [
     address: "Казань, р-н Вахитовский",
     date: "10 июля 11:39",
     img: "/image/card-image.png",
+    description: "Продаю не спеша самокат в хорошем состоянии. ",
   },
   {
     id: 5,
@@ -46,5 +51,6 @@ export const cardArray = [
     address: "Казань, р-н Вахитовский",
     date: "10 июля 11:39",
     img: "/image/card-image.png",
+    description: "Продаю не спеша самокат в хорошем состоянии. ",
   },
 ];
